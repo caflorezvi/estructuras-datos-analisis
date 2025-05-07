@@ -12,3 +12,6 @@ Las colas son una estructura de datos que sigue el principio de FIFO (First In, 
 
 ## Árboles
 Los árboles son una estructura de datos que se utiliza para representar jerarquías o relaciones de tipo padre-hijo. Los árboles son muy útiles para representar estructuras de datos complejas, como los sistemas de archivos de una computadora o las relaciones familiares de una persona. Hay árboles binarios, árboles binarios de búsqueda, árboles AVL.
+
+## Grafos
+Los grafos son una estructura de datos que se utiliza para representar relaciones entre objetos. Un grafo está formado por un conjunto de nodos (o vértices) y un conjunto de aristas que conectan los nodos. Los grafos son muy útiles para representar redes, como las redes sociales o las redes de transporte. Hay grafos dirigidos, grafos no dirigidos, grafos ponderados, etc.

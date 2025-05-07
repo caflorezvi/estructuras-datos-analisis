@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * Clase que representa una estructura de datos tipo �rbol Binario de B�squeda
+ * Clase que representa una estructura de datos tipo árbol binario de búsqueda
  * @author caflorezvi
  *
  * @param <T>
